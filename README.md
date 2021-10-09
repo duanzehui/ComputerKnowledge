@@ -1,2 +1,1 @@
-# ComputerKnowledge
-电脑小知识
+# 总结一些电脑常用的小知识
